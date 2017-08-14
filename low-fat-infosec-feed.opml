@@ -37,6 +37,7 @@
 			<outline htmlUrl="http://subt0x10.blogspot.com/" title="subTee (@subTee)" xmlUrl="http://subt0x10.blogspot.com/feeds/posts/default" type="rss" text="subTee (@subTee)"/>
 			<outline htmlUrl="https://www.sixdub.net" title="suxdub (@sixdub)" xmlUrl="https://www.sixdub.net/?feed=rss2" type="rss" text="suxdub (@sixdub)"/>
 			<outline htmlUrl="http://taosecurity.blogspot.com/" title="TaoSecurity (@taosecurity)" xmlUrl="https://taosecurity.blogspot.com/feeds/posts/default" type="rss" text="TaoSecurity (@taosecurity)"/>
+			<outline htmlUrl="https://theantisocialengineer.com" title="The AntiSocial Engineer (@antisocial_eng)" xmlUrl="https://theantisocialengineer.com/feed/" type="rss" text="The AntiSocial Engineer (@antisocial_eng)"/>
 			<outline htmlUrl="http://theharmonyguy.com/blog/" title="The Harmony Guy (@theharmonyguy)" xmlUrl="http://theharmonyguy.com/blog/rss/" type="rss" text="The Harmony Guy (@theharmonyguy)"/>
 			<outline htmlUrl="https://the-infosec.com" title="the-infosec (@XalfiE)" xmlUrl="https://the-infosec.com/feed/" type="rss" text="the-infosec (@XalfiE)"/>
 			<outline htmlUrl="https://www.scriptjunkie.us" title="Thoughts on Sec (@scriptjunkie1)" xmlUrl="https://www.scriptjunkie.us/feed/" type="rss" text="Thoughts on Sec (@scriptjunkie1)"/>
@@ -78,7 +79,7 @@
 		</outline>
 		<outline text="News" title="News">
 			<outline htmlUrl="https://badcyber.com" title="BadCyber" xmlUrl="https://badcyber.com/feed/" type="rss" text="BadCyber"/>
-			<outline htmlUrl="http://www.banksectech.com/" title="Bank Information Security News | Bank SECURITY and TECHNOLOGY News Magazine" xmlUrl="http://www.banksectech.com/blog?format=RSS" type="rss" text="Bank Information Security News | Bank SECURITY and TECHNOLOGY News Magazine"/>
+			<outline htmlUrl="http://www.banksectech.com/" title="Bank Information Security News" xmlUrl="http://www.banksectech.com/blog?format=RSS" type="rss" text="Bank Information Security News"/>
 			<outline htmlUrl="https://www.iansresearch.com/" title="Blog" xmlUrl="https://www.iansresearch.com/feeds/blog" type="rss" text="Blog"/>
 			<outline htmlUrl="https://www.cso.com.au/tax/news/" title="CSO Online - News RSS feed" xmlUrl="https://www.cso.com.au/rss/tax/news/" type="rss" text="CSO Online - News RSS feed"/>
 			<outline htmlUrl="http://cyber.uk" title="cyber.uk" xmlUrl="http://cyber.uk/feed/" type="rss" text="cyber.uk"/>
@@ -93,7 +94,7 @@
 			<outline htmlUrl="https://www.liquidmatrix.org/blog" title="Liquidmatrix Security Digest" xmlUrl="http://feeds.feedburner.com/Liquidmatrix" type="rss" text="Liquidmatrix Security Digest"/>
 			<outline htmlUrl="https://nakedsecurity.sophos.com" title="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" type="rss" text="Naked Security"/>
 			<outline htmlUrl="http://blog.noticebored.com/" title="NoticeBored" xmlUrl="http://feeds.feedburner.com/NoticeBored" type="rss" text="NoticeBored"/>
-			<outline htmlUrl="https://securelist.com" title="Securelist - Information about Viruses, Hackers and Spam" xmlUrl="https://securelist.com/feed/" type="rss" text="Securelist - Information about Viruses, Hackers and Spam"/>
+			<outline htmlUrl="https://securelist.com" title="Securelist" xmlUrl="https://securelist.com/feed/" type="rss" text="Securelist"/>
 			<outline htmlUrl="http://feeds.pheedo.com/SecurityBytes" title="Security Bytes" xmlUrl="http://searchsecurity.techtarget.com/rss/Security-Bytes.xml" type="rss" text="Security Bytes"/>
 			<outline htmlUrl="http://www.securityweek.com" title="SecurityWeek RSS Feed" xmlUrl="http://feeds.feedburner.com/securityweek" type="rss" text="SecurityWeek RSS Feed"/>
 			<outline htmlUrl="http://tech-wreckblog.blogspot.com/" title="Tech-Wreck InfoSec Blog" xmlUrl="http://tech-wreckblog.blogspot.com/feeds/posts/default" type="rss" text="Tech-Wreck InfoSec Blog"/>
@@ -122,7 +123,7 @@
 			<outline htmlUrl="http://securingthehuman.sans.org/blog" title="Security Awareness Blog" xmlUrl="https://securingthehuman.sans.org/blog/feed/" type="rss" text="Security Awareness Blog"/>
 		</outline>
 		<outline text="Security Trends" title="Security Trends">
-			<outline htmlUrl="http://blog.drinfosec.com/" title="Dr. InfoSec™" xmlUrl="http://blog.drinfosec.com/feeds/posts/default" type="rss" text="Dr. InfoSec™"/>
+			<outline htmlUrl="http://blog.drinfosec.com/" title="Dr. InfoSec" xmlUrl="http://blog.drinfosec.com/feeds/posts/default" type="rss" text="Dr. InfoSec"/>
 		</outline>
 		<outline text="Tools" title="Tools">
 			<outline htmlUrl="http://www.toolswatch.org" title="ToolsWatch.org" xmlUrl="http://www.toolswatch.org/feed/" type="rss" text="ToolsWatch.org"/>

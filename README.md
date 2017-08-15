@@ -7,7 +7,7 @@
 ## Blogs
 * /dev/random ([@xme](https://twitter.com/xme))
 * 0day.rocks ([@x0rz](https://twitter.com/x0rz))
-* Active Directory Security (([@pyrotek3](https://twitter.com/pyrotek3))
+* Active Directory Security ([@pyrotek3](https://twitter.com/pyrotek3))
 * Black Hills InfoSec ([@BHinfoSecurity](https://twitter.com/BHinfoSecurity))
 * byt3bl33d3r ([@byt3bl33d3r](https://twitter.com/byt3bl33d3r))
 * Chenb0x Development ([@chenb0x](https://twitter.com/chenb0x))

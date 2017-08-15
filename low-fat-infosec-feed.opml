@@ -7,6 +7,7 @@
 		<outline text="Blogs" title="Blogs">
 			<outline htmlUrl="https://blog.rootshell.be" title="/dev/random (@xme)" xmlUrl="https://blog.rootshell.be/feed/" type="rss" text="/dev/random (@xme)"/>
 			<outline htmlUrl="https://blog.0day.rocks?source=rss----6beb88197afc---4" title="0day.rocks (@x0rz)" xmlUrl="https://blog.0day.rocks/feed" type="rss" text="0day.rocks (@x0rz)"/>
+			<outline htmlUrl="https://adsecurity.org" title="Active Directory Security" xmlUrl="https://adsecurity.org/?feed=rss2" type="rss" text="Active Directory Security"/>
 			<outline htmlUrl="https://www.blackhillsinfosec.com" title="Black Hills InfoSec (@BHinfoSecurity)" xmlUrl="https://www.blackhillsinfosec.com/feed/" type="rss" text="Black Hills InfoSec (@BHinfoSecurity)"/>
 			<outline htmlUrl="https://byt3bl33d3r.github.io/" title="byt3bl33d3r (@byt3bl33d3r)" xmlUrl="https://byt3bl33d3r.github.io/feeds/all.rss.xml" type="rss" text="byt3bl33d3r (@byt3bl33d3r)"/>
 			<outline htmlUrl="https://chenb0x.net" title="Chenb0x Development (@chenb0x)" xmlUrl="https://chenb0x.net/feed/" type="rss" text="Chenb0x Development (@chenb0x)"/>
